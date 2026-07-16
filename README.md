@@ -2,6 +2,10 @@
 
 A Python Tkinter-based GUI application that monitors system and network information in real time.
 
+## Application Preview
+
+![Network Monitoring Tool](network-monitor.png)
+
 ## Features
 
 - Host Name
